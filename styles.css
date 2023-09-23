@@ -1,0 +1,25 @@
+body{
+  background:#fec5e5;
+}
+.box{
+  background:#f2b8c6;
+  color : #ff1694;
+  margin :230px;
+  height : 500px;
+  width : 500px;
+  border : 2px solid #9e4244;
+}
+.box1{
+  height : 20px;
+  width : 300px;
+  border : 1px solid #9e4244 ;
+}
+button{
+  background-color : #ff1694;
+  height : 30px;
+  margin : 30px;
+  color : white;
+}
+h4{
+margin-top:40px;
+}
